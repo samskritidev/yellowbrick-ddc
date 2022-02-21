@@ -7,11 +7,25 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
+    "@fontsource/questrial": "^4.5.2",
     "@gridsome/plugin-google-analytics": "^0.1.2",
+    "@gridsome/plugin-sitemap": "^0.2.2",
     "@gridsome/remark-prismjs": "^0.5.0",
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.6.4",
-    "gridsome": "^0.7.23"
+    "@gridsome/vue-remark": "^0.1.8",
+    "autoprefixer": "^10.4.2",
+    "gridsome": "^0.7.23",
+    "gridsome-plugin-base-components": "^0.0.12",
+    "gridsome-plugin-gtm": "^0.1.1",
+    "gridsome-plugin-netlify-cms": "^1.0.9",
+    "gridsome-plugin-tailwindcss": "^2.2.25",
+    "gridsome-transformer-netlify": "^1.0.3",
+    "netlify-cms": "^2.9.7",
+    "postcss": "^8.4.6",
+    "tailwindcss": "^3.0.23",
+    "tailwindcss-rfs": "^2.1.1",
+    "typeface-source-sans-pro": "^0.0.75"
   },
   "devDependencies": {
     "node-sass": "^5.0.0",

@@ -1,10 +1,13 @@
 ---
-title: Markdown test file
+canonical_url: false
+title: test4
 date: 2019-02-06
 published: true
-tags: ['Markdown','Test files']
-canonical_url: false
-description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
+cover_image: ../../static/images/uploads/alexandr-podvalny-220262-unsplash.jpg
+thumbnail_image: ../../static/images/uploads/8699193a-7f20-42af-82a8-aa6aad28471e.png
+description: Markdown is intended to be as easy-to-read and easy-to-write as is
+  feasible. Readability, however, is emphasized above all elseor formatting
+  instructions.
 ---
 
 Markdown is intended to be as easy-to-read and easy-to-write as is feasible.Readability, however, is emphasized above all else. A Markdown-formatted

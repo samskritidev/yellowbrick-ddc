@@ -1,10 +1,13 @@
 ---
-title: Say hello to Gridsome 🎉
+title: test5
 date: 2019-02-07
 published: true
-tags: ['Markdown', 'Releases']
-description: "A new static site generator baby is born. It's highly inspired by Gatsby.js (React based) but built on top of Vue.js. We have been working on it for a year and will have a beta ready soon. You can expect this baby to grow up fast!"
-
+cover_image: ../../static/images/uploads/sun-3713835_1920.jpg
+thumbnail_image: ../../static/images/uploads/8699193a-7f20-42af-82a8-aa6aad28471e.png
+description: A new static site generator baby is born. It's highly inspired by
+  Gatsby.js (React based) but built on top of Vue.js. We have been working on it
+  for a year and will have a beta ready soon. You can expect this baby to grow
+  up fast!
 ---
 
 A new static site generator baby is born. It's highly inspired by Gatsby.js (React based) but built on top of Vue.js. We have been working on it for a year and will have a beta ready soon. You can expect this baby to grow up fast!
