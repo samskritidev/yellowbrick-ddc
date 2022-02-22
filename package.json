@@ -19,7 +19,6 @@
     "gridsome-plugin-base-components": "^0.0.12",
     "gridsome-plugin-gtm": "^0.1.1",
     "gridsome-plugin-netlify-cms": "^1.0.9",
-    "gridsome-plugin-tailwindcss": "^2.2.25",
     "gridsome-transformer-netlify": "^1.0.3",
     "netlify-cms": "^2.9.7",
     "typeface-source-sans-pro": "^0.0.75"
