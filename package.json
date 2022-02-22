@@ -15,7 +15,8 @@
     "@gridsome/transformer-remark": "^0.6.4",
     "@gridsome/vue-remark": "^0.1.8",
     "autoprefixer": "^10.4.2",
-
+    "netlify-cms": "^2.9.7",
+    "typeface-source-sans-pro": "^0.0.75"
   },
 "engines": {
     "node": ">=12"
