@@ -15,13 +15,7 @@
     "@gridsome/transformer-remark": "^0.6.4",
     "@gridsome/vue-remark": "^0.1.8",
     "autoprefixer": "^10.4.2",
-    "gridsome": "^0.7.23",
-    "gridsome-plugin-base-components": "^0.0.12",
-    "gridsome-plugin-gtm": "^0.1.1",
-    "gridsome-plugin-netlify-cms": "^1.0.9",
-    "gridsome-transformer-netlify": "^1.0.3",
-    "netlify-cms": "^2.9.7",
-    "typeface-source-sans-pro": "^0.0.75"
+
   },
 "engines": {
     "node": ">=12"
