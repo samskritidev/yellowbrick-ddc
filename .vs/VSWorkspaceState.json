@@ -2,13 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\pages",
     "\\content\\posts",
     "\\src",
     "\\src\\components",
+    "\\src\\layouts",
     "\\src\\pages",
-    "\\src\\templates"
+    "\\src\\templates",
+    "\\static",
+    "\\static\\admin"
   ],
-  "SelectedNode": "\\src\\main.js",
+  "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
 }
