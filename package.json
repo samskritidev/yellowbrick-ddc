@@ -23,6 +23,9 @@
     "netlify-cms": "^2.9.7",
     "typeface-source-sans-pro": "^0.0.75"
   },
+"engines": {
+    "node": ">=12"
+},
   "devDependencies": {
     "node-sass": "^5.0.0",
     "sass-loader": "^10.0.3"
